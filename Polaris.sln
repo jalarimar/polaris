@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polaris", "Polaris\Polaris.csproj", "{5ED5A189-9BD8-44E8-972E-1A759A948400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polarisappService", "..\..\..\..\..\..\VSDL\polarisappService\polarisappService.csproj", "{209FA716-A7AD-4095-BD70-C8710FC66FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED5A189-9BD8-44E8-972E-1A759A948400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED5A189-9BD8-44E8-972E-1A759A948400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED5A189-9BD8-44E8-972E-1A759A948400}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5ED5A189-9BD8-44E8-972E-1A759A948400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED5A189-9BD8-44E8-972E-1A759A948400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED5A189-9BD8-44E8-972E-1A759A948400}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{209FA716-A7AD-4095-BD70-C8710FC66FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209FA716-A7AD-4095-BD70-C8710FC66FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209FA716-A7AD-4095-BD70-C8710FC66FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209FA716-A7AD-4095-BD70-C8710FC66FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+Polaris.MainActivity, Polaris;md53d529ddea1d1104327b7c47ea87a62cf.MainActivity
+Polaris.MainActivity, Polaris, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53d529ddea1d1104327b7c47ea87a62cf.MainActivity
+Polaris.MainActivity;md53d529ddea1d1104327b7c47ea87a62cf.MainActivity
+polaris.MainActivity;md53d529ddea1d1104327b7c47ea87a62cf.MainActivity
